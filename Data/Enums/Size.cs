@@ -17,7 +17,7 @@ namespace BleakwindBuffet.Data.Enums
         Medium,
         Large
     }
-
+     
     /// <summary>
     /// Provides available soda flavors
     /// </summary>
@@ -30,6 +30,5 @@ namespace BleakwindBuffet.Data.Enums
         Peach,
         Watermelon
 	}
-
 
 }
