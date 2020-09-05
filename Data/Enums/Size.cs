@@ -3,7 +3,7 @@
  *		Edited by: Justin Graham
  * 
  *		Class name: Size.cs
- *		Purpose: Class used to represent available sizes & soda flavors through an enumeration
+ *		Purpose: Class used to represent available sizes through an enumeration
  */
 
 namespace BleakwindBuffet.Data.Enums
@@ -17,18 +17,4 @@ namespace BleakwindBuffet.Data.Enums
         Medium,
         Large
     }
-     
-    /// <summary>
-    /// Provides available soda flavors
-    /// </summary>
-    public enum SodaFlavor
-    {
-        Cherry,
-        Blackberry,
-        Grapefruit,
-        Lemon,
-        Peach,
-        Watermelon
-	}
-
 }
